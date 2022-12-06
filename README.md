@@ -3,7 +3,8 @@ typora-copy-images-to: img
 ---
 
 
-
+idea/vscode 打开,找到main方法执行就行.
+jdk是1.6. 在idea/vscode中使用高版本,指定语言级别就行.
 
 
 # JrebelLicenseServerforJava
@@ -13,20 +14,6 @@ typora-copy-images-to: img
 > 源项目fork自这里，仅用作记录，谢谢。
 >
 > 源地址： https://gitee.com/gsls200808/JrebelLicenseServerforJava
-
-
-
-
-
-# 使用教程
-
-1. 准备工作，你需要一个后台一直运行的服务，可以在阿里云购买一台轻量级应用服务器，并且安装好java环境；
-
-   **[点击这里可以迅速获得优惠券](https://www.aliyun.com/minisite/goods?userCode=eogi8dax)。**
-
-https://www.aliyun.com/minisite/goods?userCode=eogi8dax
-
-![1577170416862](img/1577170416862.png)
 
 
 
